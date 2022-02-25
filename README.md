@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham-ayachit, Graduate Student at Michigan Technological University.
-- 👀 I’m interested in distributed systems and microservices development
+- 👀 I’m interested in distributed systems and microservices development.
 - 🌱 I’m currently learning Distributed System Development, Software security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
